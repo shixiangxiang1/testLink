@@ -1,0 +1,13 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "FAPX9XZ2G3.jp.co.yamahamotor.yamahamotorcycleconnect.sccu.dev",
+				"paths": [
+					"*"
+				]
+			}
+		]
+	}
+}
